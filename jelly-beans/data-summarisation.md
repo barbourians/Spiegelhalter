@@ -15,9 +15,7 @@ Galton managed to get hold of 787 of the tickets that had been filled out, and h
 Galton wrote to the prestigious science journal Nature and titled his paper
 
 ## Vox Populi
-### Voice of the people
-but this process of decision making is now better know as the
-### Wisdom of crowds
+or the "Voice of the People" - but this process of decision making is now better know as "The Wisdom of Crowds"
 
 ## Guess the number of jelly beans
 Unfortunately I don't have an ox with me today, but like ... I do have a jar of jelly beans!
